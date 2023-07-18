@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur:wght@400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Tektur', display;
+}
+
+
+li:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+button {
+    cursor: pointer;
+    font-size: 24px;
+    background-color: transparent;
+    margin-bottom: 40px;
+}
+
+button:hover {
+    color: red;
+}
+
+.list {
+    color: black;
+}
+
+.colorList {
+    color: red;
+}
+
+.colorText {
+    color: red;
+}
